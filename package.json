@@ -7,7 +7,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.6.4",
     "cheerio": "^0.22.0",
     "commander": "^2.9.0",
     "date-fns": "^2.13.0",
